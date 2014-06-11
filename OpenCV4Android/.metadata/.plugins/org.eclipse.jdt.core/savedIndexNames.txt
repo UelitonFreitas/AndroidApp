@@ -1,0 +1,13 @@
+INDEX VERSION 1.126+C:\Users\ueliton\Documents\Android\OpenCV4Android\.metadata\.plugins\org.eclipse.jdt.core
+3822962902.index
+401892571.index
+1031969898.index
+2448249467.index
+797160259.index
+1097653308.index
+2535054089.index
+2114575291.index
+1005145741.index
+3562458022.index
+374985064.index
+2257542629.index
